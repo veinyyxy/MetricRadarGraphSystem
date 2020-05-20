@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "spectrogram", "spectrogram\spectrogram.vcxproj", "{A43DCA81-846D-3251-B17B-4C0225E26965}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rasterview", "rasterview\rasterview.vcxproj", "{09CC99AB-50DE-3F4E-89FC-BB1E99A0B9E3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MetricRadarGraphSystem", "MetricRadarGraphSystem\MetricRadarGraphSystem.vcxproj", "{863FD063-9BCB-4C42-BC1E-BD0647A08F42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A43DCA81-846D-3251-B17B-4C0225E26965}.Debug|x64.ActiveCfg = Debug|Win32
+		{A43DCA81-846D-3251-B17B-4C0225E26965}.Debug|x86.ActiveCfg = Debug|Win32
+		{A43DCA81-846D-3251-B17B-4C0225E26965}.Debug|x86.Build.0 = Debug|Win32
+		{A43DCA81-846D-3251-B17B-4C0225E26965}.Release|x64.ActiveCfg = Release|Win32
+		{A43DCA81-846D-3251-B17B-4C0225E26965}.Release|x86.ActiveCfg = Release|Win32
+		{A43DCA81-846D-3251-B17B-4C0225E26965}.Release|x86.Build.0 = Release|Win32
+		{09CC99AB-50DE-3F4E-89FC-BB1E99A0B9E3}.Debug|x64.ActiveCfg = Debug|Win32
+		{09CC99AB-50DE-3F4E-89FC-BB1E99A0B9E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{09CC99AB-50DE-3F4E-89FC-BB1E99A0B9E3}.Debug|x86.Build.0 = Debug|Win32
+		{09CC99AB-50DE-3F4E-89FC-BB1E99A0B9E3}.Release|x64.ActiveCfg = Release|Win32
+		{09CC99AB-50DE-3F4E-89FC-BB1E99A0B9E3}.Release|x86.ActiveCfg = Release|Win32
+		{09CC99AB-50DE-3F4E-89FC-BB1E99A0B9E3}.Release|x86.Build.0 = Release|Win32
+		{863FD063-9BCB-4C42-BC1E-BD0647A08F42}.Debug|x64.ActiveCfg = Debug|x64
+		{863FD063-9BCB-4C42-BC1E-BD0647A08F42}.Debug|x64.Build.0 = Debug|x64
+		{863FD063-9BCB-4C42-BC1E-BD0647A08F42}.Debug|x86.ActiveCfg = Debug|Win32
+		{863FD063-9BCB-4C42-BC1E-BD0647A08F42}.Debug|x86.Build.0 = Debug|Win32
+		{863FD063-9BCB-4C42-BC1E-BD0647A08F42}.Release|x64.ActiveCfg = Release|x64
+		{863FD063-9BCB-4C42-BC1E-BD0647A08F42}.Release|x64.Build.0 = Release|x64
+		{863FD063-9BCB-4C42-BC1E-BD0647A08F42}.Release|x86.ActiveCfg = Release|Win32
+		{863FD063-9BCB-4C42-BC1E-BD0647A08F42}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
